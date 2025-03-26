@@ -11,6 +11,6 @@
 
 ## Installation  
 Ensure you have MATLAB installed. Then, clone this repository:  
-```sh
+```.m
 git clone https://github.com/yourusername/groq-matlab.git
 cd groq-matlab
